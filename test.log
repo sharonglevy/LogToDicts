@@ -1,0 +1,52 @@
+2001-01-23-08:21:13.22048 [01638:002902] storagekitd _DM_diskarb_objects_forDisk DMErr=-32195487 err=-32195487 out=(null)
+2001-01-23-08:21:13.22055 [01638:002902] storagekitd _DMisWholeDisk DMErr=-32195487 err=-32195487 outIsWhole=0
+2001-01-23-08:21:13.22095 [01638:002902] storagekitd _DM_io_reg_objects_forDisk DMErr=-67859562 err=-67859562 outIOR=0 outPROP=0x129870=(null)
+2001-01-23-08:21:13.22116 [01638:002902] storagekitd _DMUDSEncodeWithDADiskRef IntErr=1=0x129871 NULL from DADiskCopyDescription; DADR=<DADisk 0x129877f8a0d12dd10 [0x12987103a3b]>{id = /dev/disk28} BSD=disk28
+2001-01-23-08:21:13.22121 [01638:002902] storagekitd DMManager(Info) isAppleDiskImage DMErr=-32810 ret=0 err=-32810
+2001-01-23-08:21:13.22133 [01638:002902] storagekitd _DMUDSEncodeWithDADiskRef IntErr=1=0x129871 NULL from DADiskCopyDescription; DADR=<DADisk 0x129877f8a0d12dd10 [0x12987103a3b]>{id = /dev/disk28} BSD=disk28
+2001-01-23-08:21:13.22139 [01638:002902] storagekitd DMManager(Info) isSystemImage DMErr=-32810 ret=0 err=-32810
+2001-01-23-08:21:13.22182 [01638:002902] storagekitd _DM_io_reg_objects_forDisk DMErr=-67859562 err=-67859562 outIOR=0 outPROP=0x129870=(null)
+2001-01-23-08:21:13.22225 [01638:002902] storagekitd _DM_io_reg_objects_forDisk DMErr=-67859562 err=-67859562 outIOR=0 outPROP=0x129870=(null)
+2001-01-23-08:21:13.22268 [01638:002902] storagekitd _DM_io_reg_objects_forDisk DMErr=-67859562 err=-67859562 outIOR=0 outPROP=0x129870=(null)
+2001-01-23-08:21:13.22304 [01638:002902] storagekitd _DM_diskarb_objects_forDisk DMErr=-32195487 err=-32195487 out=(null)
+2001-01-23-08:21:13.22310 [01638:002902] storagekitd _DMisWholeDisk DMErr=-32195487 err=-32195487 outIsWhole=0
+2001-01-23-08:21:13.22315 [01638:002902] storagekitd DMManager(Info) mediaNameForDisk DMErr=-32195487 out=(null) err=-32195487
+2001-01-23-08:21:13.22346 [01638:002902] storagekitd _DM_diskarb_objects_forDisk DMErr=-32195487 err=-32195487 out=(null)
+2001-01-23-08:21:13.22383 [01638:002902] storagekitd _DM_diskarb_objects_forDisk DMErr=-32195487 err=-32195487 out=(null)
+2001-01-23-08:21:13.22389 [01638:002902] storagekitd _DMisWholeDisk DMErr=-32195487 err=-32195487 outIsWhole=0
+2001-01-23-08:21:13.22394 [01638:002902] storagekitd DMManager(Info) isWholeDisk DMErr=-32195487 ret=0 err=-32195487
+2001-01-23-08:21:13.22441 [01638:002902] storagekitd _DM_diskarb_objects_forDisk DMErr=-32195487 err=-32195487 out=(null)
+2001-01-23-08:21:13.22453 [01638:002902] storagekitd _DMmountPointForDisk DMErr=-32195487 err=-32195487 out=(null)
+2001-01-23-08:21:13.22499 [01638:002902] storagekitd _DM_diskarb_objects_forDisk DMErr=-32195487 err=-32195487 out=(null)
+2001-01-23-08:21:13.22505 [01638:002902] storagekitd _DMisWholeDisk DMErr=-32195487 err=-32195487 outIsWhole=0
+2001-01-23-08:21:13.22510 [01638:002902] storagekitd DMPartitionDisk getPartitionStartLocationForDisk IntErr=1=0x129871 err getting part start disk28s1
+2001-01-23-08:21:13.22541 [01638:002902] storagekitd _DM_diskarb_objects_forDisk DMErr=-32195487 err=-32195487 out=(null)
+2001-01-23-08:21:13.22548 [01638:002902] storagekitd _DMisWholeDisk DMErr=-32195487 err=-32195487 outIsWhole=0
+2001-01-23-08:21:13.22553 [01638:002902] storagekitd DMManager(Info) isWholeDisk DMErr=-32195487 ret=0 err=-32195487
+2001-01-23-08:21:13.22597 [01638:002902] storagekitd _DM_io_reg_objects_forDisk DMErr=-67859562 err=-67859562 outIOR=0 outPROP=0x129870=(null)
+2001-01-23-08:21:13.22603 [01638:002902] storagekitd _DMioContentOfDisk DMErr=-67859562 err=-67859562 outHumanContent=(null)
+2001-01-23-08:21:13.22627 [01638:002902] storagekitd _DM_diskarb_objects_forDisk DMErr=-32195487 err=-32195487 out=(null)
+2001-01-23-08:21:13.22666 [01638:002902] storagekitd _DM_io_reg_objects_forDisk DMErr=-67859562 err=-67859562 outIOR=0 outPROP=0x129870=(null)
+2001-01-23-08:21:13.22672 [01638:002902] storagekitd _DMioContentOfDisk DMErr=-67859562 err=-67859562 outHumanContent=(null)
+2001-01-23-08:21:13.22709 [01638:002902] storagekitd _DM_diskarb_objects_forDisk DMErr=-32195487 err=-32195487 out=(null)
+2001-01-23-08:21:13.22716 [01638:002902] storagekitd _DMisWholeDisk DMErr=-32195487 err=-32195487 outIsWhole=0
+2001-01-23-08:21:13.22721 [01638:002902] storagekitd DMManager(Info) isWholeDisk DMErr=-32195487 ret=0 err=-32195487
+2001-01-23-08:21:13.22738 [01638:002902] storagekitd _DMUDSEncodeWithDADiskRef IntErr=1=0x129871 NULL from DADiskCopyDescription; DADR=<DADisk 0x129877f8a1ad26740 [0x12987103a3b]>{id = /dev/disk28} BSD=disk28
+2001-01-23-08:21:13.22744 [01638:002902] storagekitd DMManager(Info) partitionMapSchemeForDisk DMErr=-32810 ret=(-1/0/1/2/3/256=unk/APM/MBR/GPT/synthAPFSCNT)=-1 err=-32810
+2001-01-23-08:21:13.22826 [01638:002902] storagekitd _DM_diskarb_objects_forDisk DMErr=-32195487 err=-32195487 out=(null)
+2001-01-23-08:21:13.22832 [01638:002902] storagekitd _DMisWholeDisk DMErr=-32195487 err=-32195487 outIsWhole=0
+2001-01-23-08:21:13.22837 [01638:002902] storagekitd DMManager(Info) isWholeDisk DMErr=-32195487 ret=0 err=-32195487
+2001-01-23-08:21:13.22855 [01638:002902] storagekitd _DMUDSEncodeWithDADiskRef IntErr=1=0x129871 NULL from DADiskCopyDescription; DADR=<DADisk 0x129877f8a0d30a880 [0x12987103a3b]>{id = /dev/disk28} BSD=disk28
+2001-01-23-08:21:13.22861 [01638:002902] storagekitd DMManager(Info) diskIdentifierForDisk DMErr=-32810 out=(null) err=-32810
+2001-01-23-08:21:13.22896 [01638:002902] storagekitd _DM_diskarb_objects_forDisk DMErr=-32195487 err=-32195487 out=(null)
+2001-01-23-08:21:13.22902 [01638:002902] storagekitd _DMisWholeDisk DMErr=-32195487 err=-32195487 outIsWhole=0
+2001-01-23-08:21:13.22907 [01638:002902] storagekitd DMManager(Info) isWholeDisk DMErr=-32195487 ret=0 err=-32195487
+2001-01-23-08:21:13.22922 [01638:002902] storagekitd _DMUDSEncodeWithDADiskRef IntErr=1=0x129871 NULL from DADiskCopyDescription; DADR=<DADisk 0x129877f8a1ae15b20 [0x12987103a3b]>{id = /dev/disk28} BSD=disk28
+2001-01-23-08:21:13.22928 [01638:002902] storagekitd DMManager(Info) diskIdentifierForDisk DMErr=-32810 out=(null) err=-32810
+2001-01-23-08:21:13.22941 [01638:002902] storagekitd _DMUDSEncodeWithDADiskRef IntErr=1=0x129871 NULL from DADiskCopyDescription; DADR=<DADisk 0x129877f8a0d30a880 [0x12987103a3b]>{id = /dev/disk28} BSD=disk28
+2001-01-23-08:21:13.22946 [01638:002902] storagekitd DMManager(Info) isWholeDisk DMErr=-32810 ret=0 err=-32810
+2001-01-23-08:21:13.22957 [01638:002902] storagekitd _DMUDSEncodeWithDADiskRef IntErr=1=0x129871 NULL from DADiskCopyDescription; DADR=<DADisk 0x129877f8a0d30a880 [0x12987103a3b]>{id = /dev/disk28} BSD=disk28
+2001-01-23-08:21:13.22964 [01638:002902] storagekitd DMManager(Info) ioContentOfDisk DMErr=-32810 ret=(null) err=-32810
+2001-01-23-08:21:13.22976 [01638:002902] storagekitd _DMUDSEncodeWithDADiskRef IntErr=1=0x129871 NULL from DADiskCopyDescription; DADR=<DADisk 0x129877f8a0d33f010 [0x12987103a3b]>{id = /dev/disk28} BSD=disk28
+2001-01-23-08:21:13.22982 [01638:002902] storagekitd DMManager(Info) ioContentOfDisk DMErr=-32810 ret=(null) err=-32810
+2001-01-23-08:21:13.22993 [01638:002902] storagekitd _DMUDSEncodeWithDADiskRef IntErr=1=0x129871 NULL from DADiskCopyDescription; DADR=<DADisk 0x129877f8a0d30a880 [0x12987103a3b]>{id = /dev/disk28} BSD=disk28
